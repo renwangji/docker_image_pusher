@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-quay.io/prometheus/prometheus
+#quay.io/prometheus/prometheus
+docker.io/getsentry/sentry:23.8.0
