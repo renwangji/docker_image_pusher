@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #quay.io/prometheus/prometheus
-docker.io/getsentry/sentry:23.8.0
+goharbor/nginx-photon:v2.0.6
+goharbor/registry-photon:v2.0.6
