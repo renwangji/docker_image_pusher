@@ -5,5 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #quay.io/prometheus/prometheus
-goharbor/nginx-photon:v2.0.6
-goharbor/registry-photon:v2.0.6
+#goharbor/nginx-photon:v2.0.6
+#goharbor/registry-photon:v2.0.6
+rocket.chat:7
